@@ -1,6 +1,6 @@
 # ai.luau
 
-ai.luau is a library for Lune, creating a simple module to access Google's Vertex AI API.
+ai.luau is a library for Lune, creating a simple interface to access Google's Vertex AI API.
 
 ## Installation
 
